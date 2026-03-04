@@ -1,4 +1,4 @@
-Activity 1
+Activity 1:
 <img width="1919" height="1078" alt="10cda91fe670b999971f176b1c75ae23fa31b598002dbae9d1799687f5b93a26 0" src="https://github.com/user-attachments/assets/43087bce-ce52-4546-94e3-33772148503c" />
 
 Activity 2:
